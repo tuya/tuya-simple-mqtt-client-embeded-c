@@ -1,4 +1,4 @@
-# Tuya-simple-mqtt-client-embedded-c
+# Tuya-Simple-Mqtt-Client-Embedded-C
 
 This program is a simple MQTT client on top of `liblwmqtt` developed by Filipe Varela. You can find the original project on GitHub [liblwmqtt](https://github.com/fcvarela/liblwmqtt).
 
